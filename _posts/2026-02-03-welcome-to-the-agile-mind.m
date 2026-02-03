@@ -1,13 +1,20 @@
 ---
 title: Welcome to The Agile Mind
+date: 2026-02-03
+tags: [mindset, systems]
 ---
 
 This blog is a public notebook.
 
-A place to write about:
-- mental models
-- engineering lessons
-- systems thinking
-- experiments and reflections
+## Why this blog exists
 
-Short. Honest. Useful.
+I want to write about:
+- how engineers think
+- tradeoffs over rules
+- clarity over complexity
+
+```js
+function think(system) {
+  return observe(system).iterate();
+}```
+
