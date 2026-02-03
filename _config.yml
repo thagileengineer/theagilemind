@@ -1,0 +1,12 @@
+title: The Agile Mind
+description: Thinking in systems. Learning in public.
+theme: minima
+
+author:
+  name: Adi
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
